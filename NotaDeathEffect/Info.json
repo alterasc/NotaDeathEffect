@@ -1,0 +1,12 @@
+﻿{
+  "Id": "NotaDeathEffect",
+  "DisplayName": "Not a Death Effect",
+  "Author": "AlterAsc",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.25.0",
+  "Requirements": [],
+  "AssemblyName": "NotaDeathEffect.dll",
+  "EntryMethod": "NotaDeathEffect.Main.Load",
+  "HomePage": "https://github.com/alterasc/NotaDeathEffect",
+  "Repository": "https://raw.githubusercontent.com/alterasc/NotaDeathEffect/main/Repository.json"
+}
